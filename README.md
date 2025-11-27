@@ -1,5 +1,7 @@
 # Medicine Tracker
 
+<img width="1482" height="794" alt="Screenshot 2025-11-27 at 9 15 57 AM" src="https://github.com/user-attachments/assets/979f6d3c-5527-4bc7-af10-4e034e045313" />
+
 A professional, mobile-first web application for managing medication schedules for multiple patients.
 
 ## Features
